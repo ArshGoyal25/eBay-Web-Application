@@ -16,7 +16,7 @@ Note: A similar application was also made using only Vanilla HTML, CSS, and Java
 
 Web Application Link: https://webtech-398907.wl.r.appspot.com
 
-Note: Source Code available on request.
+Note: Source Code available on request. (Project was part of CSCI 571 at USC)
 
 
 
